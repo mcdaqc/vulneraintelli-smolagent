@@ -15,4 +15,8 @@ tags:
 - agent-course
 ---
 
+# Vulneraintelli SmolAgent
+
+This project is currently under development. More information about its functionality and usage will be added soon.
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
