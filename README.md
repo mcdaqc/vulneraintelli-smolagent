@@ -43,11 +43,11 @@ pip install -r requirements.txt
 ```
 
 4. Set up environment variables:
-   - Copy `.env.template` to `.env`:
-   ```bash
-   cp .env.template .env
-   ```
-   - Edit `.env` and add your Hugging Face API token
+- Copy `.env.template` to `.env`:
+```bash
+cp .env.template .env
+```
+- Edit `.env` and add your Hugging Face API token
 
 5. Run the application:
 ```bash
